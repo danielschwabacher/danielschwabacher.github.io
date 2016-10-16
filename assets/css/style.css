@@ -179,8 +179,9 @@ textarea.form-control {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	font-size: 13px;
-	padding: 8px 26px;
+	padding: 25px 25px;
 	border: 0;
+    background-color: #7cff99 !important;
 }
 
 .btn:hover,
