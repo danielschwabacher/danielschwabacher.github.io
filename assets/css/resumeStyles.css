@@ -230,7 +230,16 @@ p {
 .skillset .item {
   margin-bottom: 15px;
   overflow: hidden;
+  width: 150px;
+  display: inline;
+  font-weight: 700;
 }
+
+.skillset .item ul {
+    list-style: square;
+    padding-left: 12px;
+}   ​
+
 .skillset .level-title {
   font-size: 14px;
   margin-top: 0;
