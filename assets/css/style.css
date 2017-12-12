@@ -791,12 +791,13 @@ textarea.form-control {
 
 .grid figure h2,
 .grid figure p {
-	margin: 0;
+	margin: -15px;
 }
 
 .grid figure p {
 	letter-spacing: 1px;
-	font-size: 68.5%;
+	font-size: 50.5%;
+	font-weight: bold;
 }
 
 /*---------------*/
